@@ -1,1 +1,1 @@
-# FashionMNIST
+FashionMNISTProject
